@@ -1,5 +1,5 @@
 # GitHub Auto Backup
-GitHub Auto Backup Tool. 
+git@github.com:KageShiron/github-auto-backup.git
 
 * Backup repos pushed in last 7 days
 * Backup every repos at the beginning of the month ( 1 <= date <= 7)
