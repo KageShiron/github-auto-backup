@@ -1,0 +1,15 @@
+{
+  "name": "github-auto-backup",
+  "version": "1.0.0",
+  "description": "GitHub Auto Backup Tool. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KageShiron",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "sleep": "^5.1.1"
+  }
+}
