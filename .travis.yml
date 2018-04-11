@@ -4,7 +4,6 @@ node_js:
 env:
   global:
     - USERNAME=KageShiron
-    - secure: "JpmhitzowvKsPWidCzbZFYPoWuOvVHoWUabri7e0CKccDa9zENAuTE2da3lmlX2yT7anM0LjQcymY2/H+Yft2nFEavlzSTq8aCbHD/11QSL+QlWRVx+7YtEs1HyItn5C2b9dSNWG+2LxXeWqSxiGIOBCnwQh6AijZCpNyG3IgupGmX+jSzME2QotVuC2POh/O92NPINacO0TP0XoPNDnyBbbVMr4q0EWIdSFsNAhSTTD+fw+++SaaG5mfkBYRd8igL3UjKOGR0jzhFP2wt5ZiAcIhHPiXQPj47UoTuaDpVJo0dNqQq0UmevquPlHZsqmTUZW/REy/7jfuEffExJo8JDcTmwBJDiR78rq63UoCUQVsw6c8bzVTqUkF3D1YKwipgn5ixw1OF0earU76mQ9JzKDp2RTfmPczBcPUraUoUblhw9tjZw6HVuthCW3sop3oTupAeJyepLzvU8AceUYNKJtRBP9vtgjiOx5ZmnCrHTNK/DzKYEKduXcP0m2H5nyG4Op7i5pW4YQ7+G9lC2EiV07KG/qImWm4R5tSkJ9ztXBCxGyk6CZbpbcMWC6NrK9zm2eKWGOFZdGFV6UDza+S21vRKmt5GIgHuTlQavWV0HlKPnlJsXPLJDk/EWyI9dvkIVgWdU8ugz90UCMEIskVlADokUNezyeR+9UjjdIkpE="
     
 install:
     - npm install
