@@ -16,6 +16,7 @@ const now = new Date();
 const tarFilePath = "../tar";
 
 let log = `# Log ${now.toISOString()}
+${uploadUrl}
 
 `;
 
